@@ -67,6 +67,7 @@
      <Compile Include="Assets\Scripts\Player\PlayerManager.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerShoot.cs" />
+     <None Include="Assets\Crates And Barrels Pack Volume 1 - Free Version\manual.txt" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/McLovin/Documents/GitHub/newCyberpunk/cyberpunk/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
